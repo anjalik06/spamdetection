@@ -35,5 +35,5 @@ The model uses text processing and classification algorithms to distinguish spam
 ## 🙋‍♂️ Author
 
 **Anjali K**  
-CodTech Internship (Task 4)
+
 
