@@ -11,6 +11,8 @@ The model uses text processing and classification algorithms to distinguish spam
 
 ---
 
+You can run this notebook directly in **Google Colab**:
+
 
 ## 🧠 Features
 
